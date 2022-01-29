@@ -1,0 +1,112 @@
+.formStyle {
+  width: 100%;
+  padding: 50px;
+  background-color: white;
+  border-radius: 23px;
+}
+.container {
+  background-color: white;
+  width: 529px;
+  /* border-radius: 21px; */
+  border-top-right-radius: 21px;
+  border-bottom-right-radius: 21px;
+  /* box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%); */
+  height: 605px;
+}
+
+.mb-3 {
+  background-color: white;
+}
+.button {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  align-items: center;
+}
+.connecter {
+  margin-bottom: 10px;
+  border-radius: 26px;
+  padding: 9px;
+  font-family: cursive;
+  font-size: medium;
+}
+img {
+  width: 40%;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+.all {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 400px;
+  background-color: #3867fd;
+  width: 55%;
+  border-radius: 23px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.myname {
+  font-family: system-ui;
+  font-size: x-large;
+  margin-top: 20px;
+  margin-left: 16px;
+  color: white;
+}
+.image {
+  background-color: #3867fd;
+  width: 50%;
+  text-align: center;
+  font-family: system-ui;
+  border-radius: 30px;
+  padding: 60px;
+}
+h1 {
+  font-weight: bold;
+}
+h1,
+h2 {
+  color: white;
+}
+button {
+  color: white;
+  background-color: #3867fd;
+  padding: 15px;
+  border-radius: 25px;
+  width: 80%;
+  border-color: white;
+  margin-bottom: 30px;
+  margin-top: 19px;
+  font-family: unset;
+  font-size: medium;
+}
+.form {
+  margin: 105px 62px 0 34px;
+}
+.this {
+  margin: 0 0 10px;
+  font-size: xx-large;
+  text-align: center;
+  font-weight: 900;
+  font-family: cursive;
+  color: #3867fd;
+}
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 11px;
+  font-weight: 700;
+  margin-top: 7px;
+  margin-left: 84px;
+  color: cornflowerblue;
+  font-family: cursive;
+}
+.compte {
+  margin-bottom: 10px;
+  border-radius: 26px;
+  padding: 9px;
+  font-family: cursive;
+  font-size: medium;
+  color: #3867fd;
+  border-color: #3867fd;
+  background-color: white;
+}
